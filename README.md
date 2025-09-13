@@ -82,9 +82,9 @@ gantt
 
     Google Data Analytics           :done, 2024-05, 2025-03
     Google IT Support               :done, 2024-06, 2025-04
-    Inbound Certification           :done, 2025-01, 2025-05
-    Sales Hub Software              :done, 2024-10, 2025-02
-    Hubsport Reporting              :done, 2025-03, 2025-07
+    Inbound Certification           :done, 2025-03, 2025-05
+    Sales Hub Software              :done, 2024-12, 2025-02
+    Hubsport Reporting              :done, 2025-05, 2025-07
     Google Cybersecurity            :in progress, 2025-01, 2025-11
 
     section Active / In Progress :
