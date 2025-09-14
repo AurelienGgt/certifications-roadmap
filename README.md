@@ -18,6 +18,7 @@ This repository presents my **2025 certification roadmap**, split into **Non-Pro
 | Google Data Analytics | BI / Data | ![187h](https://img.shields.io/badge/≈187h-3498db?style=for-the-badge) | ![Completed](https://img.shields.io/badge/Completed-1abc9c?style=for-the-badge) | [Coursera](https://www.coursera.org/professional-certificates/google-data-analytics) |
 | Google IT Support | Security | ![120h](https://img.shields.io/badge/≈120h-e74c3c?style=for-the-badge) | ![Completed](https://img.shields.io/badge/Completed-1abc9c?style=for-the-badge) | [Coursera](https://www.coursera.org/professional-certificates/google-it-support) |
 | Google Cybersecurity | Security | ![120h](https://img.shields.io/badge/≈120h-e74c3c?style=for-the-badge) | ![Completed](https://img.shields.io/badge/Completed-1abc9c?style=for-the-badge) | [Coursera](https://www.coursera.org/professional-certificates/google-cybersecurity) |
+| Google Project Management | BI / Data | ![187h](https://img.shields.io/badge/≈187h-3498db?style=for-the-badge) | ![Completed](https://img.shields.io/badge/Completed-1abc9c?style=for-the-badge) | [Coursera](https://www.coursera.org/professional-certificates/google-project-management) |
 | IBM Data Science Pro. Certificate | BI / Data | ![160h](https://img.shields.io/badge/≈160h-3498db?style=for-the-badge) | ![Planned](https://img.shields.io/badge/Planned-f39c12?style=for-the-badge) | [Coursera](https://www.coursera.org/professional-certificates/ibm-data-science) |
 | Machine Learning (Stanford) | AI / ML | ![60h](https://img.shields.io/badge/≈60h-9b59b6?style=for-the-badge) | ![Completed](https://img.shields.io/badge/Completed-1abc9c?style=for-the-badge) | [Coursera](https://www.coursera.org/learn/machine-learning) |
 | Deep Learning Specialization | AI / ML | ![220h](https://img.shields.io/badge/≈220h-9b59b6?style=for-the-badge) | ![Planned](https://img.shields.io/badge/Planned-f39c12?style=for-the-badge) | [Coursera](https://www.coursera.org/specializations/deep-learning) |
@@ -82,10 +83,11 @@ gantt
 
     Google Data Analytics           :done, 2024-05, 2025-03
     Google IT Support               :done, 2024-06, 2025-04
+    Google Project Management       :in progress, 2025-01, 2025-12
     Inbound Certification           :done, 2025-03, 2025-05
     Sales Hub Software              :done, 2024-12, 2025-02
     Hubsport Reporting              :done, 2025-05, 2025-07
-    Google Cybersecurity            :in progress, 2025-01, 2025-11
+    Google Cybersecurity            :in progress, 2025-01, 2025-12
 
     section Active / In Progress :
 
