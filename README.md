@@ -52,6 +52,7 @@ This repository presents my **2025 certification roadmap**, split into **Non-Pro
 | AWS Security Specialty | AWS | ![40h](https://img.shields.io/badge/≈40h-e74c3c?style=for-the-badge) | ![Planned](https://img.shields.io/badge/Planned-f39c12?style=for-the-badge) | n/a | [AWS](https://aws.amazon.com/certification/certified-security-specialty/) |
 | PSM I – Professional Scrum Master I | Scrum.org | ![15h](https://img.shields.io/badge/≈15h-95a5a6?style=for-the-badge) | ![Planned](https://img.shields.io/badge/Planned-f39c12?style=for-the-badge) | n/a | [Scrum.org](https://www.scrum.org/) |
 | Privacy & Data Protection Foundation | EXIN | ![15h](https://img.shields.io/badge/≈15h-95a5a6?style=for-the-badge) | ![Planned](https://img.shields.io/badge/Planned-f39c12?style=for-the-badge) | n/a | [EXIN](https://www.exin.com/certifications/privacy-data-protection-foundation/) |
+| Apache Airflow 3 Fundamentals | Data / Orchestration | ![20h](https://img.shields.io/badge/≈20h-f39c12?style=for-the-badge) | ![Planned](https://img.shields.io/badge/Planned-3498db?style=for-the-badge) | [Astronomer Academy](https://academy.astronomer.io/) |
 
 
 
@@ -82,12 +83,13 @@ gantt
     section Completed :
 
     Google Data Analytics           :done, 2024-05, 2025-03
-    Google IT Support               :done, 2024-06, 2025-04
-    Google Project Management       :in progress, 2025-01, 2025-12
+    Google IT Support               :done, 2024-05, 2025-04
+    Google Project Management       :in progress, 2024-05, 2025-12
     Inbound Certification           :done, 2025-03, 2025-05
     Sales Hub Software              :done, 2024-12, 2025-02
     Hubsport Reporting              :done, 2025-05, 2025-07
-    Google Cybersecurity            :in progress, 2025-01, 2025-12
+    Google Cybersecurity            :in progress, 2024-05, 2025-12
+
 
     section Active / In Progress :
 
@@ -95,3 +97,4 @@ gantt
     Oracle Analytics Cloud Professional :active, 2025-05, 2025-10
     OCI Data Science – Professional :active, 2025-05, 2025-10
     PL-200 Power Platform Functional Consultant :active, 2025-11, 2026-09
+    Apache Airflow 3 Fundamentals :active, 2025-09, 2025-11
