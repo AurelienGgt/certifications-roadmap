@@ -93,7 +93,6 @@ gantt
 
     section Active / In Progress :
 
-    AWS AI Practitioner            :active, 2025-08, 2025-09
     Oracle Analytics Cloud Professional :active, 2025-05, 2025-10
     OCI Data Science – Professional :active, 2025-05, 2025-10
     PL-200 Power Platform Functional Consultant :active, 2025-11, 2026-09
